@@ -23,43 +23,44 @@
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-111111?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ### Focus
-- Automating development workflows (CI/CD, build, test, release)
+- Automating development workflows (build, test, release)
 - Containerized environments (Docker Compose, service orchestration)
-- Linux systems, networking basics, debugging and observability mindset
+- Linux systems, networking basics, debugging and reliability mindset
 
 ---
 
 ### Featured work
 - **Inception** — Dockerized multi-service setup (Nginx, WordPress, MariaDB) + automation
 - **CPP00–CPP09** — strong C++ fundamentals (OOP, inheritance, templates, STL)
+- **minishell** — a minimal shell implementation (parsing, pipes, redirections, signals)
+- **webserver** — an HTTP server project with focus on robustness and performance
 
 ---
 
-<details>
-  <summary>CI status</summary>
-  <br />
-  <a href="https://github.com/lemonnn616/INCEPTION_REPO/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/lemonnn616/INCEPTION_REPO/WORKFLOW_FILE.yml?branch=main&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/lemonnn616/DEVOPS_SCRIPTS_REPO/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/lemonnn616/DEVOPS_SCRIPTS_REPO/WORKFLOW_FILE.yml?branch=main&style=for-the-badge" />
-  </a>
-</details>
+### Live
+<p align="center">
+  <img src="https://github.com/lemonnn616/lemonnn616/actions/workflows/snake.yml/badge.svg" />
+</p>
 
-<details>
-  <summary>GitHub badges</summary>
-  <br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lemonnn616/lemonnn616/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/lemonnn616?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/lemonnn616/INCEPTION_REPO?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/lemonnn616/CPP_REPO?style=for-the-badge" />
-</details>
+  <img src="https://img.shields.io/github/last-commit/lemonnn616/lemonnn616?style=for-the-badge" />
+</p>
+
+---
+
