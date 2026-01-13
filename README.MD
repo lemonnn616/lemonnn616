@@ -38,8 +38,8 @@
 ---
 
 <details>
-<summary>Optional: GitHub stats (keep it minimal)</summary>
+  <summary>Optional: GitHub stats (keep it minimal)</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lemonnn616&layout=compact&langs_count=8)
 
 </details>
