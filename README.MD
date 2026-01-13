@@ -38,8 +38,8 @@
 ---
 
 <details>
-  <summary>Optional: GitHub stats (keep it minimal)</summary>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lemonnn616&layout=compact&langs_count=8)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonnn616&layout=compact&langs_count=8&cache_seconds=86400"
+    alt="Top Langs"
+  />
 </details>
