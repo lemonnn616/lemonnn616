@@ -50,11 +50,12 @@
 
 ### Live
 <p align="center">
-  <img src="https://github.com/lemonnn616/lemonnn616/actions/workflows/snake.yml/badge.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lemonnn616&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lemonnn616/lemonnn616/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemonnn616&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemonnn616&theme=github_dark" />
 </p>
 
 <p align="center">
