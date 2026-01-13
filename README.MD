@@ -50,18 +50,11 @@
 
 ### Live
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemonnn616&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonnn616&layout=compact&langs_count=10&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemonnn616&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemonnn616&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/lemonnn616?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/lemonnn616/lemonnn616?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,ansible,nginx,git,githubactions,prometheus,grafana" />
 </p>
 
 ---
-
