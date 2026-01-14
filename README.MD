@@ -19,18 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-111111?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=white" />
-</p>
-
 ---
 
 ### Focus
@@ -48,13 +36,49 @@
 
 ---
 
-### Live
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonnn616&layout=compact&langs_count=10&hide_border=true&theme=transparent" />
-</p>
+## 🧑‍💻 Skills
+
+<table><tr><td valign="top" width="33%">
+
+### DevOps / Platform
+<div align="center">
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>
+  <a href="https://docs.docker.com/compose/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker Compose" height="50" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50" /></a>
+  <a href="https://nginx.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="50" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Cloud / IaC
+<div align="center">
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="50" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="50" /></a>
+  <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="50" /></a>
+  <a href="https://helm.sh/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=helm" alt="Helm" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Systems / Languages
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/TCP/IP_model" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Networking basics" height="50" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" /></a>
+  <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redis" alt="Redis" height="50" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" /></a>
+  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=go" alt="Go" height="50" /></a>
+</div>
+
+</td></tr></table>
+
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,ansible,nginx,git,githubactions,prometheus,grafana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
----
