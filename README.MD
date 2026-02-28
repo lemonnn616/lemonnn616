@@ -30,6 +30,8 @@
 
 ### Featured work
 - **Inception** — Dockerized multi-service setup (Nginx, WordPress, MariaDB) + automation
+- **Github-Actions-CI-CD-demo** - A hands-on repository that demonstrates GitHub Actions capabilities across the CI/CD lifecycle
+- **Inception-Of-Things** - is a DevOps and Kubernetes infrastructure project
 - **CPP00–CPP09** — strong C++ fundamentals (OOP, inheritance, templates, STL)
 - **minishell** — a minimal shell implementation (parsing, pipes, redirections, signals)
 - **webserver** — an HTTP server project with focus on robustness and performance
@@ -57,7 +59,6 @@
 ### Cloud / IaC
 <div align="center">
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="50" /></a>
   <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="50" /></a>
   <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="50" /></a>
   <a href="https://helm.sh/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=helm" alt="Helm" height="50" /></a>
@@ -72,7 +73,6 @@
   <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redis" alt="Redis" height="50" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>
   <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" /></a>
-  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=go" alt="Go" height="50" /></a>
 </div>
 
 </td></tr></table>
