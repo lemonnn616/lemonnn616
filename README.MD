@@ -9,10 +9,10 @@
     <img alt="GitHub: lemonnn616" src="https://img.shields.io/badge/GitHub-lemonnn616-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ivan-riadynskyi/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ivan--riadynskyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:riadynskyiivan@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-riadynskyiivan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://YOUR_CV_LINK" target="_blank" rel="noopener noreferrer">
     <img alt="CV" src="https://img.shields.io/badge/CV-Download-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
