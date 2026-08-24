@@ -1,83 +1,155 @@
-<h1 align="center">Hi, I'm Ivan Riadynskyi 👋</h1>
-
-<h3 align="center">Junior Cloud Engineer | AWS & Terraform</h3>
-
-<p align="center">
-  AWS • Terraform • Linux • Docker • Kubernetes • CI/CD
-</p>
-
-<p align="center">
-  📍 Woerden, Netherlands &nbsp;•&nbsp; Open to Junior Cloud / DevOps opportunities
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ivan-riadynskyi/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivan%20Riadynskyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:riadynskyiivan@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="./Ivan_Riadynskyi_CV.pdf">
-    <img alt="CV" src="https://img.shields.io/badge/CV-View-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Junior Cloud / DevOps Engineer focused on **AWS, Infrastructure as Code and automation**, with a strong Linux, networking and systems programming foundation.
-
-* ☁️ Building AWS infrastructure with Terraform
-* 🐧 Linux, networking and troubleshooting
-* 🐳 Docker, Kubernetes and GitOps
-* ⚙️ CI/CD with GitHub Actions
-* 🤖 AI agents and agentic engineering workflows
-* 📚 2+ years of continuous self-directed engineering learning
-
----
-
-## 🚀 Featured Projects
-
-* ☁️ **[Highly Available AWS Infrastructure](https://github.com/lemonnn616/terraform-aws-ha-infrastructure)** — Multi-AZ AWS architecture with Terraform, ALB, Auto Scaling, RDS, IAM, CloudWatch, SSM and GitHub Actions/OIDC.
-* 🎮 **[ft_transcendence](https://github.com/exploding-CATs-42/ft_transcendence)** — Database Engineer in a 5-person team; PostgreSQL/Prisma, 8 migrations, REST APIs, lobby/reconnect systems; completed with **125/125**.
-* ☸️ **[Inception of Things](https://github.com/lemonnn616/Inception-Of-Things)** — Kubernetes lab with K3s, K3d, Traefik and Argo CD GitOps.
-* 🐳 **[Inception](https://github.com/lemonnn616/Inception)** — Docker Compose infrastructure with NGINX/TLS, WordPress, MariaDB, Redis and persistent storage.
-* ⚙️ **[GitHub Actions CI/CD Demo](https://github.com/lemonnn616/Github-Actions-CI-CD-demo)** — Reusable workflows, matrix builds, caching, artifacts, service containers and concurrency.
-* 🌐 **[Webserv](https://github.com/lemonnn616/webserv)** — C++17 HTTP server; architecture, sockets, event loop and configuration parsing.
-
----
-
 ## 🛠️ Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,bash,docker,kubernetes,githubactions,git,nginx,c,cpp,python,postgres" />
-</p>
+<table>
+<tr>
 
-<p align="center">
-  <b>Cloud:</b> AWS • Terraform &nbsp; | &nbsp;
-  <b>DevOps:</b> Docker • Kubernetes • GitHub Actions • Argo CD
-</p>
+<td valign="top" width="33%">
 
-<p align="center">
-  <b>Systems:</b> Linux • Bash • NGINX • TCP/IP • DNS • HTTP/HTTPS &nbsp; | &nbsp;
-  <b>Programming:</b> C • C++ • Python • SQL • PostgreSQL
-</p>
+### ☁️ Cloud / IaC
 
----
+<div align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="48" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="48" />
+  </a>
+</div>
 
-## 🤖 AI-Assisted Engineering
+<br/>
 
-AI agents • Agentic coding workflows • Debugging • Code review • Infrastructure design • Technical research
+**AWS:**
+VPC • EC2 • IAM • S3
+RDS • ALB • Auto Scaling
+CloudWatch • SSM • Secrets Manager
 
----
+**Terraform:**
+Modules • Remote State
+State Locking • IaC
 
-## 📈 Learning
+</td>
 
-**2+ years of continuous self-directed engineering learning:** system-level C within 6 months, productive C++ within 1 month, and confident daily Linux/Bash usage within 3 months.
+<td valign="top" width="33%">
 
----
+### ⚙️ DevOps / Platform
 
-<p align="center">
-  <b>Open to Junior Cloud Engineer, DevOps Engineer and Platform Engineering opportunities.</b>
-</p>
+<div align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="48" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="48" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" />
+  </a>
+</div>
+
+<br/>
+
+Docker • Docker Compose
+Kubernetes • K3s • K3d
+Argo CD • GitOps
+GitHub Actions • CI/CD
+Git • AWS OIDC
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🐧 Systems / Development
+
+<div align="center">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="48" />
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" height="48" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+  </a>
+</div>
+
+<br/>
+
+Linux • Bash • NGINX
+TCP/IP • DNS • HTTP/HTTPS
+TLS • Reverse Proxy
+Load Balancing • Troubleshooting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" width="33%">
+
+### 💻 Programming
+
+<div align="center">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" height="48" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+  </a>
+</div>
+
+<br/>
+
+C • C++17 • Python
+Systems Programming
+Network Programming
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🗄️ Data / Backend
+
+<div align="center">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48" />
+  </a>
+</div>
+
+<br/>
+
+PostgreSQL • SQL • Prisma
+Relational Database Design
+REST APIs • Data Persistence
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🤖 AI Engineering
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Agents-412991?style=for-the-badge" alt="AI Agents" />
+</div>
+
+<br/>
+
+AI Agents
+Agentic Workflows
+LLM-assisted Debugging
+Code Review
+Infrastructure Design
+Technical Research
+
+</td>
+
+</tr>
+</table>
